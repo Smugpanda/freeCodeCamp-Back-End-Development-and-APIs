@@ -6,11 +6,11 @@ This repository showcases five microservice projects developed using Node.js and
 
 | Project Name | Description | Live Demo |
 |--------------|-------------|-----------|
-| [Timestamp Microservice](./Timestamp-Microservice) | Converts between Unix and natural dates | [View Demo](https://boilerplate-project-timestamp.smugpanda.repl.co/) |
-| [Request Header Parser](./Request-Header-Parser-Microservice) | Extracts client information from headers | [View Demo](https://boilerplate-project-headerparser.smugpanda.repl.co/) |
-| [URL Shortener](./URL-Shortener-Microservice) | Creates shortened URLs with redirect capability | [View Demo](https://boilerplate-project-urlshortener.smugpanda.repl.co/) |
-| [Exercise Tracker](./Exercise-Tracker) | Manages user exercises with filtering options | [View Demo](https://boilerplate-project-exercisetracker.smugpanda.repl.co/) |
-| [File Metadata](./File-Metadata-Microservice) | Analyzes uploaded files and returns metadata | [View Demo](https://boilerplate-project-filemetadata.smugpanda.repl.co/) |
+| [Timestamp Microservice](./Timestamp-Microservice) | Converts between Unix and natural dates | [View Demo](https://replit.com/@Smugpanda/boilerplate-project-timestamp) |
+| [Request Header Parser](./Request-Header-Parser-Microservice) | Extracts client information from headers | [View Demo](https://replit.com/@Smugpanda/boilerplate-project-headerparser) |
+| [URL Shortener](./URL-Shortener-Microservice) | Creates shortened URLs with redirect capability | [View Demo](https://replit.com/@Smugpanda/boilerplate-project-urlshortener) |
+| [Exercise Tracker](./Exercise-Tracker) | Manages user exercises with filtering options | [View Demo](https://replit.com/@Smugpanda/boilerplate-project-exercisetracker) |
+| [File Metadata](./File-Metadata-Microservice) | Analyzes uploaded files and returns metadata | [View Demo](https://replit.com/@Smugpanda/boilerplate-project-filemetadata) |
 
 ## Technical Skills Demonstrated
 
